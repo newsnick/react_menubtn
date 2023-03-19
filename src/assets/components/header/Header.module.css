@@ -1,0 +1,15 @@
+h1,
+h2,
+h3 {
+  color: #1b1f23;
+  margin: 1rem 0;
+  text-align: center;
+}
+
+h2 {
+  color: green;
+}
+
+h3 {
+  color: dodgerblue;
+}
